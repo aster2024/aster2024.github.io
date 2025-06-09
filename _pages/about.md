@@ -39,12 +39,12 @@ My research interests are primarily focused on Large Language Models and Foundat
 
 # 🔥 News
 - *2025.05*: &nbsp; Check out <a href="https://arxiv.org/abs/2505.12225">ELHSR</a>, a highly efficient reward model for LLMs.
-- *2025.04*: &nbsp; 🎉Our work _Cross-Stimulus Transfer Learning_ and _Olfactory EEG_ are accepted to EMBC 2025! 🎉
+- *2025.04*: &nbsp; 🎉Our work _Cross-Stimulus Transfer Learning_ is accepted to EMBC 2025! 🎉
 - *2024.10*: &nbsp; Our work <a href="https://arxiv.org/abs/2410.10481">Llamdex</a> is on arXiv!
 - *2024.09*: &nbsp; 🎉Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is accepted to NeurIPS 2024! 🎉
 - *2024.05*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is on arXiv!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 _<sup>*</sup> denotes equal contribution_
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/elhsr.png' alt="sym" width="100%"></div></div>
@@ -111,21 +111,6 @@ _EMBC 2025_ (Full Contributed paper)
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2025</div><img src='images/eeg.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**EEG-based Emotion Recognition in an Olfactory Stimulation Paradigm**
-
-Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng
-
-_EMBC 2025_ (Research posters abstract), _In submission to main conference_
-
-- Designed and executed experiments to predict human emotions from EEG signals under various olfactory stimuli.
-- Implemented and compared multiple deep learning models (MLP, CNN, Transformer).
-
-</div>
-</div>
 
 # 📚 Selected Projects
 
