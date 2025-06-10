@@ -38,10 +38,11 @@ My research interests are primarily focused on Large Language Models and Foundat
 </p>
 
 # 🔥 News
+- *2025.06*: &nbsp; <a href="https://arxiv.org/abs/2410.10481">Llamdex</a> is accepted to ICML 2025 Data in Generative Models Workshop. See you in Vancouver!
 - *2025.05*: &nbsp; Check out <a href="https://arxiv.org/abs/2505.12225">ELHSR</a>, a highly efficient reward model for LLMs.
-- *2025.04*: &nbsp; 🎉Our work _Cross-Stimulus Transfer Learning_ is accepted to EMBC 2025! 🎉
+- *2025.04*: &nbsp; Our work _Cross-Stimulus Transfer Learning_ is accepted to EMBC 2025! 🎉
 - *2024.10*: &nbsp; Our work <a href="https://arxiv.org/abs/2410.10481">Llamdex</a> is on arXiv!
-- *2024.09*: &nbsp; 🎉Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is accepted to NeurIPS 2024! 🎉
+- *2024.09*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is accepted to NeurIPS 2024! 🎉
 - *2024.05*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is on arXiv!
 
 # 📝 Selected Publications 
@@ -70,7 +71,9 @@ _Under review_
 
 Zhaomin Wu\*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
 
-_Under review_ 
+_DIG-BUGS@ICML 2025 (Long)_
+
+_Under review at main conference._ 
 
 [[arXiv]](https://arxiv.org/abs/2410.10481)
 
