@@ -64,7 +64,7 @@ _Under review_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/llamdex.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIG-BUGS @ ICML 2025</div><img src='images/llamdex.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Model-based Large Language Model Customization as Service**
