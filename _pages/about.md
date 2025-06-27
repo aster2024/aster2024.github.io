@@ -135,7 +135,7 @@ Beyond this project, I have also completed work on SplitNN implementation, a rev
 
 # 🌍 Services
 
-Invited as reviewer: EMBC 2025
+Invited as reviewer: [EMBC 2025](https://embc.embs.org/2025/), [AI4MATH @ ICML 2025](https://sites.google.com/view/ai4mathworkshopicml2025)
 
 <style>
 .experience-box {
@@ -170,6 +170,21 @@ Invited as reviewer: EMBC 2025
 </style>
 
 # 💼 Experience
+
+<div class="experience-box">
+  <div class="experience-image">
+    <img src="images/uic_logo.png" alt="UIC logo">
+  </div>
+  <div class="experience-text" markdown="1">
+
+### University of Illinois Chicago
+
+2025.06 - 2025.08  
+Research Assistant
+Advisor: [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/)
+
+  </div>
+</div>
 
 <div class="experience-box">
   <div class="experience-image">
