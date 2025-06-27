@@ -181,6 +181,7 @@ Invited as reviewer: [EMBC 2025](https://embc.embs.org/2025/), [AI4MATH @ ICML 2
 
 2025.06 - 2025.08  
 Research Assistant
+
 Advisor: [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/)
 
   </div>
