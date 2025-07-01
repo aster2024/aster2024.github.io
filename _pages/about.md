@@ -135,7 +135,7 @@ Beyond this project, I have also completed work on SplitNN implementation, a rev
 
 # 🌍 Services
 
-Invited as reviewer: [EMBC 2025](https://embc.embs.org/2025/)
+Invited as reviewer: [EMBC 2025](https://embc.embs.org/2025/), [AI4MATH @ ICML 2025](https://sites.google.com/view/ai4mathworkshopicml2025)
 
 <style>
 .experience-box {
