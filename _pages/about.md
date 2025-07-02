@@ -114,24 +114,35 @@ _EMBC 2025_ (Full Contributed paper)
 </div>
 </div>
 
+In addition, I have also completed several projects. Please refer to my [CV](assets/pdf/CV_Jizhou_Guo.pdf) for further details.
 
-# 📚 Selected Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/2aRNN_model.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[//]: # (# 📚 Selected Projects)
 
-**Two-Area RNN: Representations for Context-Dependent Decisions**
+[//]: # ()
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><img src='images/2aRNN_model.png' alt="sym" width="100%"></div></div>)
 
-**Jizhou Guo**, Liting Pang, Zhaoyu Zhu, Ziyi Xu
+[//]: # (<div class='paper-box-text' markdown="1">)
 
-[[PDF]](assets/pdf/2aRNN_report.pdf) [[code]](https://github.com/aster2024/2aRNN)
+[//]: # ()
+[//]: # (**Two-Area RNN: Representations for Context-Dependent Decisions**)
 
-- Proposed a novel **Two-Area RNN** architecture for context-dependent decision-making tasks.
+[//]: # ()
+[//]: # (**Jizhou Guo**, Liting Pang, Zhaoyu Zhu, Ziyi Xu)
 
-</div>
-</div>
+[//]: # ()
+[//]: # ([[PDF]]&#40;assets/pdf/2aRNN_report.pdf&#41; [[code]]&#40;https://github.com/aster2024/2aRNN&#41;)
 
-Beyond this project, I have also completed work on SplitNN implementation, a review of AlphaGo, and validation of the Frequency Principle. Please refer to my [CV](assets/pdf/CV_Jizhou_Guo.pdf) for further details.
+[//]: # ()
+[//]: # (- Proposed a novel **Two-Area RNN** architecture for context-dependent decision-making tasks.)
+
+[//]: # ()
+[//]: # (</div>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (Beyond this project, I have also completed work on SplitNN implementation, a review of AlphaGo, and validation of the Frequency Principle. Please refer to my [CV]&#40;assets/pdf/CV_Jizhou_Guo.pdf&#41; for further details.)
 
 # 🌍 Services
 
