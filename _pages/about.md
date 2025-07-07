@@ -19,14 +19,14 @@ redirect_from:
 
 Hi! I am a 3rd-year undergraduate at <strong>Zhiyuan College (Honor, Top 10%), Shanghai Jiao Tong University</strong>.
 My academic journey has been enriched by several research experiences.
-Currently I am mentored by <a href="https://cs.uic.edu/profiles/philip-yu/">Prof. Philip S. Yu</a>.
-Most recently, I was a research intern at <strong>National University of Singapore</strong>, collaborating with <a href="https://www.zhaominwu.com/">Dr. Zhaomin Wu</a> and <a href="https://profile.junyi.dev/">Mr. Junyi Hou</a> under the supervision of <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>.
-Before that, I worked as an undergraduate researcher at Shanghai Jiao Tong University, working alongside <a href="https://zhxie.site/">Mr. Zhihui Xie</a>, mentored by <a href="https://shuaili8.github.io/">Prof. Shuai Li</a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a>.
+Currently I am mentored by <a href="https://cs.uic.edu/profiles/philip-yu/">Prof. Philip S. Yu</a> at University of Illinois Chicago.
+Most recently, I was a research intern at National University of Singapore under the supervision of <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>.
+Before that, I worked as an undergraduate researcher at Shanghai Jiao Tong University, mentored by <a href="https://shuaili8.github.io/">Prof. Shuai Li</a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a>.
 I've also had the privilege of collaborating with <a href="https://bcmi.sjtu.edu.cn/~blu/">Prof. Bao-Liang Lu</a> and <a href="https://weilongzheng.github.io/">Prof. Wei-Long Zheng</a>.
 
 Besides research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC and various other contests, under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.
 
-My research interests are primarily focused on Large Language Models and Foundation Models. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
+My research interests are primarily focused on Large Language Models (Foundation Models) and Natural Language Processing. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
 <p style="text-align: center;">
 <a href="mailto:sjtu18640985163@sjtu.edu.cn">Email</a> / 
