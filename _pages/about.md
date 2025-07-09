@@ -74,8 +74,6 @@ Zhaomin Wu\*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
 
 _DIG-BUGS @ ICML 2025 (Long Paper)_
 
-_Under review at main conference_ 
-
 [[arXiv]](https://arxiv.org/abs/2410.10481)
 
 - Proposed _Llamdex_, a novel framework that facilitates LLM customization as a service for domain-specific applications.
