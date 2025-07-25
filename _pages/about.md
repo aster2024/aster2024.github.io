@@ -49,22 +49,6 @@ My research interests are primarily focused on Large Language Models (Foundation
 # 📝 Selected Publications 
 _<sup>*</sup> denotes equal contribution_
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/elhsr.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Reward Inside the Model: A Lightweight Hidden-State Reward Model for LLM's Best-of-N sampling**
-
-**Jizhou Guo**, Zhaomin Wu, Philip S. Yu
-
-_AI4Math @ ICML 2025_
-
-[[arXiv]](https://arxiv.org/abs/2505.12225)
-
-- Proposed _ELHSR_, a highly parameter-efficient reward model leveraging the LLM hidden states, which **systematically outperforms baselines** with **less than 0.005% of the parameters** of baselines, resulting in orders-of-magnitude efficiency improvement.
-- ELHSR also performs well with limited data, extends to logit-only training for certain closed-source LLMs, and can be combined with conventional reward models to yield further performance improvements.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIG-BUGS @ ICML 2025</div><img src='images/llamdex.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,6 +62,22 @@ _DIG-BUGS @ ICML 2025 (Long Paper)_
 
 - Proposed _Llamdex_, a novel framework that facilitates LLM customization as a service for domain-specific applications.
 - Achieved substantial performance improvements in domain-specific tasks, **boosting accuracy by up to 26%** while preserving privacy and maintaining efficiency on par with the base LLM.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/elhsr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reward Inside the Model: A Lightweight Hidden-State Reward Model for LLM's Best-of-N sampling**
+
+**Jizhou Guo**, Zhaomin Wu, Philip S. Yu
+
+_AI4Math @ ICML 2025_
+
+[[paper]](https://openreview.net/forum?id=mCRC1ealFP)
+
+- Proposed _ELHSR_, a highly parameter-efficient reward model leveraging the LLM hidden states, which **systematically outperforms baselines** with **less than 0.005% of the parameters** of baselines, resulting in orders-of-magnitude efficiency improvement.
+- ELHSR also performs well with limited data, extends to logit-only training for certain closed-source LLMs, and can be combined with conventional reward models to yield further performance improvements.
 </div>
 </div>
 
