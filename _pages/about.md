@@ -90,7 +90,7 @@ _NeurIPS 2024_
 
 [[arXiv]](https://arxiv.org/abs/2405.18711) [[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93260.png) [[code]](https://github.com/zhxieml/internal-consistency)
 
-<small>Proposed "_internal consistency_" approach to calibrate reasoning in LLMs, resulting in a significant boost in reasoning performance without requiring additional training.</small>
+<small>Proposed _internal consistency_ approach to calibrate reasoning in LLMs, resulting in a significant boost in reasoning performance without requiring additional training.</small>
 </div>
 </div>
 
