@@ -19,9 +19,7 @@ redirect_from:
 
 Hi! I am a 4th-year undergraduate at Zhiyuan College (Honor, Top 10%), Shanghai Jiao Tong University.
 
-During my undergraduate years, I was fortunate to be mentored by <a href="https://cs.uic.edu/profiles/philip-yu/">Prof. Philip S. Yu</a>, <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>, <a href="https://shuaili8.github.io/">Prof. Shuai Li</a>, <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a>, <a href="https://bcmi.sjtu.edu.cn/~blu/">Prof. Bao-Liang Lu</a>, and <a href="https://weilongzheng.github.io/">Prof. Wei-Long Zheng</a>. 
-
-My work has been published at venues such as EMNLP (main), ICML (AI4MATH), and NeurIPS, and I have served as a reviewer for conferences including ICLR 2026. Beyond research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC, and other contests under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.
+During my undergraduate years, I was fortunate to be mentored by <a href="https://cs.uic.edu/profiles/philip-yu/">Prof. Philip S. Yu</a>, <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a> and <a href="https://shuaili8.github.io/">Prof. Shuai Li</a>. My work has been published at venues such as EMNLP (main), ICML (AI4MATH), and NeurIPS, and I have served as a reviewer for conferences including ICLR 2026. Beyond research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC, and other contests under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>.
 
 My research interests are primarily focused on Large Language Models (Foundation Models) and Natural Language Processing. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
