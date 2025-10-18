@@ -17,14 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a 4th-year undergraduate at <strong>Zhiyuan College (Honor, Top 10%), Shanghai Jiao Tong University</strong>.
-My academic journey has been enriched by several research experiences.
-Most recently, I was mentored by <a href="https://cs.uic.edu/profiles/philip-yu/">Prof. Philip S. Yu</a> at the University of Illinois Chicago.
-Before that, I was a research intern at the National University of Singapore under the supervision of <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>.
-Prior to that, I worked as an undergraduate researcher at Shanghai Jiao Tong University, mentored by <a href="https://shuaili8.github.io/">Prof. Shuai Li</a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a>.
-I've also had the privilege of collaborating with <a href="https://bcmi.sjtu.edu.cn/~blu/">Prof. Bao-Liang Lu</a> and <a href="https://weilongzheng.github.io/">Prof. Wei-Long Zheng</a>.
+Hi! I am a 4th-year undergraduate at Zhiyuan College (Honor, Top 10%), Shanghai Jiao Tong University.
 
-Besides research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC and various other contests, under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.
+During my undergraduate years, I was fortunate to be mentored by <a href="https://cs.uic.edu/profiles/philip-yu/">Prof. Philip S. Yu</a>, <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>, <a href="https://shuaili8.github.io/">Prof. Shuai Li</a>, <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a>, <a href="https://bcmi.sjtu.edu.cn/~blu/">Prof. Bao-Liang Lu</a>, and <a href="https://weilongzheng.github.io/">Prof. Wei-Long Zheng</a>. 
+
+My work has been published at venues such as EMNLP (main), ICML (AI4MATH), and NeurIPS, and I have served as a reviewer for conferences including ICLR 2026. Beyond research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC, and other contests under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.
 
 My research interests are primarily focused on Large Language Models (Foundation Models) and Natural Language Processing. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
@@ -61,18 +58,34 @@ _EMNLP 2025 main_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4Math @ ICML 2025</div><img src='images/elhsr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4Math @ ICML 2025</div><img src='images/swift.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Reward Inside the Model: A Lightweight Hidden-State Reward Model for LLM's Best-of-N sampling**
+**Mining Intrinsic Rewards from LLM Hidden States for Efficient Best-of-N Sampling**
 
-**Jizhou Guo**, Zhaomin Wu, Philip S. Yu
+**Jizhou Guo**, Zhaomin Wu, Hanchen Yang, Philip S. Yu
 
 _AI4Math @ ICML 2025 / In submission to main conference_
 
-[[paper]](https://openreview.net/forum?id=mCRC1ealFP)
+[[workshop]](https://openreview.net/forum?id=mCRC1ealFP) [[arXiv]](https://arxiv.org/abs/2505.12225)
 
-<small>Proposed ELHSR, a highly parameter-efficient reward model leveraging the LLM hidden states, which systematically outperforms baselines with less than 0.005% of the parameters of baselines.</small>
+<small>Proposed SWIFT, a lightweight reward model based on the LLM hidden states, which systematically outperforms baselines with less than 0.005% of the parameters of baselines.</small>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/psg_agent.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PSG-Agent: Personality-Aware Safety Guardrail for LLM-based Agents**
+
+Yaozu Wu\*,  **Jizhou Guo**\*, Dongyuan Li\*, Henry Peng Zou, Wei-Chieh Huang, Yankai Chen, Zhen Wang, Weizhi Zhang, Yangning Li, Meng Zhang, Renhe Jiang, Philip S. Yu
+
+_Under review_
+
+[[arXiv]](https://arxiv.org/abs/2509.23614)
+
+<small>Introduces PSG-Agent, a training-free system that provides personalized safety guardrails for LLM-based agents.</small>
 </div>
 </div>
 
@@ -95,17 +108,23 @@ _NeurIPS 2024_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2025</div><img src='images/dann.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Cross-Stimulus Transfer Learning: Enhancing Emotion Recognition from Visual-Auditory to Olfactory Perception**
+[//]: # (**Cross-Stimulus Transfer Learning: Enhancing Emotion Recognition from Visual-Auditory to Olfactory Perception**)
 
-Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng
+[//]: # ()
+[//]: # (Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng)
 
-_EMBC 2025_
+[//]: # ()
+[//]: # (_EMBC 2025_)
 
-<small>Adopted Transformer-based Domain-Adversarial Neural Network (DANN) for cross-stimulus transfer learning task between olfactory and visual-auditory stimuli and outperformed conventional methods.</small>
-</div>
-</div>
+[//]: # ()
+[//]: # (<small>Adopted Transformer-based Domain-Adversarial Neural Network &#40;DANN&#41; for cross-stimulus transfer learning task between olfactory and visual-auditory stimuli and outperformed conventional methods.</small>)
 
-In addition, I have also completed several projects. Please refer to my [CV](assets/pdf/CV_Jizhou_Guo.pdf) for further details.
+[//]: # (</div>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (In addition, I have also completed several projects. Please refer to my [CV]&#40;assets/pdf/CV_Jizhou_Guo.pdf&#41; for further details.)
 
 
 [//]: # (# 📚 Selected Projects)
