@@ -74,7 +74,7 @@ _AI4Math @ ICML 2025 / In submission to main conference_
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/psg_agent.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/psg_agent.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PSG-Agent: Personality-Aware Safety Guardrail for LLM-based Agents**
@@ -105,8 +105,9 @@ _NeurIPS 2024_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2025</div><img src='images/dann.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2025</div><img src='images/dann.png' alt="sym" width="60%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
 
 [//]: # (**Cross-Stimulus Transfer Learning: Enhancing Emotion Recognition from Visual-Auditory to Olfactory Perception**)
 
