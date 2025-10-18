@@ -77,7 +77,7 @@ _AI4Math @ ICML 2025 / In submission to main conference_
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/psg_agent.png' alt="sym" width=90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/psg_agent.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PSG-Agent: Personality-Aware Safety Guardrail for LLM-based Agents**
