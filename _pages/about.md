@@ -21,7 +21,7 @@ Hi! I am a 4th-year undergraduate at Zhiyuan College (Honor, Top 10%), Shanghai 
 
 Most recently, I was mentored by <a href="https://cs.uic.edu/profiles/philip-yu/">Prof. Philip S. Yu</a> at the University of Illinois Chicago.
 Before that, I was a research intern at the National University of Singapore under the supervision of <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>.
-Prior to that, I worked as an undergraduate researcher at Shanghai Jiao Tong University, mentored by <a href="https://shuaili8.github.io/">Prof. Shuai Li</a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a>.
+Prior to that, I was mentored by <a href="https://shuaili8.github.io/">Prof. Shuai Li</a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a> at SJTU.
 I've also had the privilege of collaborating with <a href="https://bcmi.sjtu.edu.cn/~blu/">Prof. Bao-Liang Lu</a> and <a href="https://weilongzheng.github.io/">Prof. Wei-Long Zheng</a>.
 
 My work has been published at venues such as EMNLP (main), ICML (AI4MATH), and NeurIPS, and I have served as a reviewer for conferences including ICLR 2026. Beyond research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC, and other contests under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>.
@@ -77,7 +77,7 @@ _AI4Math @ ICML 2025 / In submission to main conference_
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/psg_agent.png' alt="sym" width=95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/psg_agent.png' alt="sym" width=100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PSG-Agent: Personality-Aware Safety Guardrail for LLM-based Agents**
