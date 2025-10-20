@@ -39,7 +39,7 @@ My research interests are primarily focused on Large Language Models (Foundation
 
 # 🔥 News
 - *2025.08*: &nbsp; 🎉<a href="https://arxiv.org/abs/2410.10481">Llamdex</a> is accepted to EMNLP 2025 main conference! 🎉
-- *2025.07*: &nbsp; <a href="https://openreview.net/forum?id=mCRC1ealFP">ELHSR</a> is accepted to ICML 2025 AI for Math Workshop.
+- *2025.07*: &nbsp; <a href="https://openreview.net/forum?id=mCRC1ealFP">SWIFT</a> is accepted to ICML 2025 AI for Math Workshop.
 - *2025.04*: &nbsp; _Cross-Stimulus Transfer Learning_ is accepted to EMBC 2025! 🎉
 - *2024.09*: &nbsp; <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is accepted to NeurIPS 2024! 🎉
 
