@@ -24,7 +24,7 @@ Before that, I was a research intern at the National University of Singapore und
 Prior to that, I was mentored by <a href="https://shuaili8.github.io/">Prof. Shuai Li</a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a> at SJTU.
 I've also had the privilege of collaborating with <a href="https://bcmi.sjtu.edu.cn/~blu/">Prof. Bao-Liang Lu</a> and <a href="https://weilongzheng.github.io/">Prof. Wei-Long Zheng</a>.
 
-My work has been published at venues such as EMNLP (main), ICML (AI4MATH), and NeurIPS, and I was invited as a reviewer for conferences including ICLR 2026. Beyond research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC, and other contests under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>.
+My work has been published at venues such as KDD, EMNLP (main), and NeurIPS, and I was invited as a reviewer for conferences including ICLR 2026. Beyond research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC, and other contests under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>.
 
 My research interests are primarily focused on Large Language Models (Foundation Models) and Natural Language Processing. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
@@ -38,13 +38,29 @@ My research interests are primarily focused on Large Language Models (Foundation
 </p>
 
 # 🔥 News
+- *2025.11*: &nbsp; 🎉<a href="https://openreview.net/forum?id=mCRC1ealFP">SWIFT</a> is accepted to KDD 2026! 🎉
+- *2025.09*: &nbsp; <a href="https://arxiv.org/abs/2509.23614">PSG-Agent</a> is on arXiv!
 - *2025.08*: &nbsp; 🎉<a href="https://arxiv.org/abs/2410.10481">Llamdex</a> is accepted to EMNLP 2025 main conference! 🎉
-- *2025.07*: &nbsp; <a href="https://openreview.net/forum?id=mCRC1ealFP">SWIFT</a> is accepted to ICML 2025 AI for Math Workshop.
 - *2025.04*: &nbsp; _Cross-Stimulus Transfer Learning_ is accepted to EMBC 2025! 🎉
 - *2024.09*: &nbsp; <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is accepted to NeurIPS 2024! 🎉
 
 # 📝 Selected Publications 
 _<sup>*</sup> denotes equal contribution_
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/swift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Mining Intrinsic Rewards from LLM Hidden States for Efficient Best-of-N Sampling**
+
+**Jizhou Guo**, Zhaomin Wu, Hanchen Yang, Philip S. Yu
+
+_KDD 2026_
+
+[[workshop]](https://openreview.net/forum?id=mCRC1ealFP) [[arXiv]](https://arxiv.org/abs/2505.12225)
+
+<small>Proposed SWIFT, a lightweight reward model based on the LLM hidden states, which systematically outperforms baselines with less than 0.005% of the parameters of baselines.</small>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 main</div><img src='images/llamdex.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,21 +74,6 @@ _EMNLP 2025 main_
 [[arXiv]](https://arxiv.org/abs/2410.10481)
 
 <small>Proposed Llamdex, a novel framework that facilitates LLM customization as a service for domain-specific applications. It boosted accuracy by up to 26% while preserving privacy.</small>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4Math @ ICML 2025</div><img src='images/swift.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Mining Intrinsic Rewards from LLM Hidden States for Efficient Best-of-N Sampling**
-
-**Jizhou Guo**, Zhaomin Wu, Hanchen Yang, Philip S. Yu
-
-_AI4Math @ ICML 2025 / In submission to main conference_
-
-[[workshop]](https://openreview.net/forum?id=mCRC1ealFP) [[arXiv]](https://arxiv.org/abs/2505.12225)
-
-<small>Proposed SWIFT, a lightweight reward model based on the LLM hidden states, which systematically outperforms baselines with less than 0.005% of the parameters of baselines.</small>
 </div>
 </div>
 
