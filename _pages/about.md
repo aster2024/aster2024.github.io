@@ -56,7 +56,7 @@ _<sup>*</sup> denotes equal contribution_
 
 _KDD 2026_
 
-[[workshop]](https://openreview.net/forum?id=mCRC1ealFP) [[arXiv]](https://arxiv.org/abs/2505.12225)
+[[arXiv]](https://arxiv.org/abs/2505.12225)
 
 <small>Proposed SWIFT, a lightweight reward model based on the LLM hidden states, which systematically outperforms baselines with less than 0.005% of the parameters of baselines.</small>
 </div>
@@ -274,6 +274,8 @@ Research Advisors: [Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Lia
 
 # 🎖 Selected Honors and Awards
 _Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
+- *2025.10* Merit Student of SJTU.
+- *2025.09* Zhiyuan Overseas Research Scholarship.
 - *2025.01* <strong> Gold Award🥇 </strong> and <strong> First Runner-up </strong> in the National College Students' Career Planning Contest (Shanghai Region).
 - *2024.12* Zhiyuan Honors Scholarship.
 - *2024.11* Zhiyuan <strong>First-Class</strong> Overseas Research Scholarship.
