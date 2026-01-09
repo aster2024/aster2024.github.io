@@ -26,7 +26,7 @@ I've also had the privilege of collaborating with <a href="https://bcmi.sjtu.edu
 
 My work has been published at venues such as KDD, EMNLP (main), and NeurIPS, and I was invited as a reviewer for conferences including ICLR 2026. Beyond research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC, and other contests under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>.
 
-My research interests are primarily focused on Large Language Models (Foundation Models), LLM-based Agents, and efficient machine learning. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
+My research interests include LLMs, agentic systems, privacy and safety, and efficient ML. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
 <p style="text-align: center;">
 <a href="mailto:sjtu18640985163@sjtu.edu.cn">Email</a> / 
