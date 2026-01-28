@@ -38,6 +38,8 @@ My research interests include LLMs, agentic systems, privacy and safety, and eff
 </p>
 
 # 🔥 News
+- *2026.01*: &nbsp; <a href="https://arxiv.org/abs/2510.06186">RECODE-H</a> and <a href="https://arxiv.org/abs/2509.24496">LLM DNA</a> are accepted to ICLR 2026! 🎉
+- *2026.01*: &nbsp; _Self-Supervised EEG-based Emotion Recognition_ is accepted to ICASSP 2026! 🎉
 - *2025.11*: &nbsp; 🎉<a href="https://arxiv.org/abs/2505.12225">SWIFT</a> is accepted to KDD 2026! 🎉
 - *2025.09*: &nbsp; <a href="https://arxiv.org/abs/2509.23614">PSG-Agent</a> is on arXiv!
 - *2025.08*: &nbsp; 🎉<a href="https://arxiv.org/abs/2410.10481">Llamdex</a> is accepted to EMNLP 2025 main conference! 🎉
