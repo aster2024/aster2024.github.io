@@ -277,6 +277,7 @@ Research Advisors: [Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Lia
 # 🎖 Selected Honors and Awards
 _Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
 
+- *2025.12* Zhiyuan Honors Scholarship.
 - *2025.12* Academic Excellence Scholarship, SJTU (Top 10%, ranked 2nd overall).
 - *2025.10* Zhiyuan Overseas Research Scholarship.
 - *2025.09* Merit Student of SJTU.
