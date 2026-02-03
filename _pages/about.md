@@ -38,6 +38,7 @@ My research interests include LLMs, agentic systems, privacy and safety, and eff
 </p>
 
 # 🔥 News
+- *2026.01*：&nbsp; <a href="https://arxiv.org/abs/2505.12225">SWIFT</a> is featured by <a href="https://mp.weixin.qq.com/s/ka5bndnjGxux3qyOnz6Yeg">AI Era (新智元)</a>.
 - *2026.01*: &nbsp; <a href="https://arxiv.org/abs/2510.06186">RECODE-H</a> and <a href="https://arxiv.org/abs/2509.24496">LLM DNA</a> are accepted to ICLR 2026! 🎉
 - *2026.01*: &nbsp; _Self-Supervised EEG-based Emotion Recognition_ is accepted to ICASSP 2026! 🎉
 - *2025.11*: &nbsp; 🎉<a href="https://arxiv.org/abs/2505.12225">SWIFT</a> is accepted to KDD 2026! 🎉
@@ -58,7 +59,7 @@ _<sup>*</sup> denotes equal contribution_
 
 _KDD 2026_
 
-[[arXiv]](https://arxiv.org/abs/2505.12225) [[code]](https://github.com/aster2024/SWIFT)
+[[arXiv]](https://arxiv.org/abs/2505.12225) [[code]](https://github.com/aster2024/SWIFT) [[HF Daily]](https://huggingface.co/papers/2505.12225) [[AI Era (新智元)]](https://mp.weixin.qq.com/s/ka5bndnjGxux3qyOnz6Yeg)
 
 <small>Proposed SWIFT, a lightweight reward model based on the LLM hidden states, which systematically outperforms baselines with less than 0.005% of the parameters of baselines.</small>
 </div>
