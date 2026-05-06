@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently I am at **Xiaohongshu (Rednote) HI Lab** through the **REDstar Talent Program**, focusing on the Research and Development of LLM Foundation Models. Throughout my undergraduate journey at SJTU Zhiyuan College (Honor Program, Top 10%), I have been fortunate to collaborate with and be mentored by esteemed researchers, including [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/), [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), [Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Liang Lu](https://bcmi.sjtu.edu.cn/~blu/), and [Prof. Wei-Long Zheng](https://weilongzheng.github.io/).
+Currently I am at Xiaohongshu (Rednote) [Dots Studio](https://studio.dots.ai/) through the **REDstar Talent Program**, focusing on the Research and Development of LLM Foundation Models. Throughout my undergraduate journey at SJTU Zhiyuan College (Honor Program, Top 10%), I have been fortunate to collaborate with and be mentored by esteemed researchers, including [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/), [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), [Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Liang Lu](https://bcmi.sjtu.edu.cn/~blu/), and [Prof. Wei-Long Zheng](https://weilongzheng.github.io/).
 
 My research has been published in top-tier venues such as KDD, EMNLP (main), NeurIPS, and **ICLR (Oral)**. I also serve as a reviewer for conferences like **ICLR 2026**. I am also a competitive programmer with multiple Gold Medals in **ICPC** and **CCPC**, mentored by [Prof. Yong Yu](https://apex.sjtu.edu.cn/members/yyu).
 
