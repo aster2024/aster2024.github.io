@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently I am at Xiaohongshu (Rednote) [Dots Studio](https://studio.dots.ai/) through the **REDstar Talent Program**, focusing on the Research and Development of LLM Foundation Models. Throughout my undergraduate journey at SJTU Zhiyuan College (Honor Program, Top 10%), I have been fortunate to collaborate with and be mentored by esteemed researchers, including [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/), [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), [Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Liang Lu](https://bcmi.sjtu.edu.cn/~blu/), and [Prof. Wei-Long Zheng](https://weilongzheng.github.io/).
+I am currently a researcher at Xiaohongshu (RedNote) [Dots Studio](https://studio.dots.ai/) through the **REDstar Talent Program**, working on large language model foundation systems. During my undergraduate studies at SJTU Zhiyuan College (Honors Program, Top 10%), I was fortunate to collaborate with and be mentored by [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/), [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), [Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Liang Lu](https://bcmi.sjtu.edu.cn/~blu/), and [Prof. Wei-Long Zheng](https://weilongzheng.github.io/).
 
-My research has been published in top-tier venues such as KDD, EMNLP (main), NeurIPS, and **ICLR (Oral)**. I also serve as a reviewer for conferences like **ICLR 2026，NeurIPS 2026**. I am also a competitive programmer with multiple Gold Medals in **ICPC** and **CCPC**, mentored by [Prof. Yong Yu](https://apex.sjtu.edu.cn/members/yyu).
+My research has appeared at KDD, EMNLP (main), NeurIPS, and **ICLR (Oral)**. I serve as a reviewer for **ICLR 2026** and **NeurIPS 2026**. I am also a competitive programmer with multiple Gold Medals in **ICPC** and **CCPC**, mentored by [Prof. Yong Yu](https://apex.sjtu.edu.cn/members/yyu).
 
 Feel free to reach out if you'd like to chat!
 
@@ -34,11 +34,13 @@ Feel free to reach out if you'd like to chat!
 </p>
 
 # 🔥 News
-- *2026.04*：&nbsp; <a href="https://arxiv.org/abs/2505.12225">LLM DNA</a> is featured by <a href="https://mp.weixin.qq.com/s/p-F7qQzDRgwOQTfl1WIL8A">AI Era (新智元)</a>.
+- *2026.08*: &nbsp; <a href="https://arxiv.org/abs/2608.08001">Reinhardt's Maximum-Perimeter Polygon Problem at n=16, 32, and 64</a> is available on arXiv, together with <a href="https://github.com/aster2024/reinhardt-powers-of-two-proof-candidates">code and proof certificates</a>.
+- *2026.07*: &nbsp; <a href="https://arxiv.org/abs/2607.04329">HAS-Bench</a>, our benchmark for LLM-based human-agent systems under configurable human participation, is available on arXiv.
+- *2026.04*: &nbsp; <a href="https://arxiv.org/abs/2509.24496">LLM DNA</a> is featured by <a href="https://mp.weixin.qq.com/s/p-F7qQzDRgwOQTfl1WIL8A">AI Era (新智元)</a>.
 - *2026.04*: &nbsp; <a href="https://arxiv.org/abs/2510.10994">DeepResearchGuard</a> and _LLM-HAS Survey_ are accepted to ACL 2026! 🎉
 - *2026.03*: &nbsp; _Self-Supervised EEG-based Emotion Recognition_ is selected as ICASSP 2026 <span style="color: #8B0000;">Oral</span>!
 - *2026.02*: &nbsp; <a href="https://arxiv.org/abs/2509.24496">LLM DNA</a> is selected as ICLR 2026 <span style="color: #8B0000;">Oral</span> (Top 1%)!
-- *2026.01*：&nbsp; <a href="https://arxiv.org/abs/2505.12225">SWIFT</a> is featured by <a href="https://mp.weixin.qq.com/s/ka5bndnjGxux3qyOnz6Yeg">AI Era (新智元)</a>.
+- *2026.01*: &nbsp; <a href="https://arxiv.org/abs/2505.12225">SWIFT</a> is featured by <a href="https://mp.weixin.qq.com/s/ka5bndnjGxux3qyOnz6Yeg">AI Era (新智元)</a>.
 - *2026.01*: &nbsp; <a href="https://arxiv.org/abs/2510.06186">RECODE-H</a> and <a href="https://arxiv.org/abs/2509.24496">LLM DNA</a> are accepted to ICLR 2026! 🎉
 - *2026.01*: &nbsp; _Self-Supervised EEG-based Emotion Recognition_ is accepted to ICASSP 2026! 🎉
 - *2025.11*: &nbsp; 🎉<a href="https://arxiv.org/abs/2505.12225">SWIFT</a> is accepted to KDD 2026! 🎉
@@ -47,8 +49,23 @@ Feel free to reach out if you'd like to chat!
 - *2025.04*: &nbsp; <a href="https://pubmed.ncbi.nlm.nih.gov/41335954/">EEG Cross-Stimulus Transfer Learning</a> is accepted to EMBC 2025! 🎉
 - *2024.09*: &nbsp; <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is accepted to NeurIPS 2024! 🎉
 
-# 📝 Selected Publications 
+# 📝 Selected Publications
 _<sup>*</sup> denotes equal contribution_
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/has_bench.png' alt="HAS-Bench framework and evaluation overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HAS-Bench: Evaluating LLM-Based Human-Agent Systems under Configurable Human Participation**
+
+Yaozu Wu, Wei-Chieh Huang, **Jizhou Guo**, Dongyuan Li, Renhe Jiang, Henry Peng Zou, Chunyu Miao, Shanghao Li, Weizhi Zhang, WeiWei Ye, Yankai Chen, Meng Zhang, Xue Liu, Philip S. Yu
+
+_arXiv preprint, 2026_
+
+[[arXiv]](https://arxiv.org/abs/2607.04329)
+
+<small>Introduces HAS-Framework and HAS-Bench for evaluating LLM-based human-agent systems under configurable human participation, covering both task outcomes and process-level collaboration behavior across six domains.</small>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/swift.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

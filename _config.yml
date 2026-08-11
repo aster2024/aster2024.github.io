@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jizhou Guo"
-description              : ""
+description              : "Jizhou Guo — Researcher in foundation models, LLM agents, and human-agent systems."
 repository               : "aster2024/aster2024.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jizhou Guo"
   avatar           : "images/avatar.jpg"
-  bio              : "Shanghai Jiao Tong University"
+  bio              : "Xiaohongshu (RedNote) Dots Studio"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
