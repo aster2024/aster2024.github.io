@@ -52,21 +52,6 @@ Feel free to reach out if you'd like to chat!
 # 📝 Selected Publications
 _<sup>*</sup> denotes equal contribution_
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/has_bench.png' alt="HAS-Bench framework and evaluation overview" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**HAS-Bench: Evaluating LLM-Based Human-Agent Systems under Configurable Human Participation**
-
-Yaozu Wu, Wei-Chieh Huang, **Jizhou Guo**, Dongyuan Li, Renhe Jiang, Henry Peng Zou, Chunyu Miao, Shanghao Li, Weizhi Zhang, WeiWei Ye, Yankai Chen, Meng Zhang, Xue Liu, Philip S. Yu
-
-_arXiv preprint, 2026_
-
-[[arXiv]](https://arxiv.org/abs/2607.04329)
-
-<small>Introduces HAS-Framework and HAS-Bench for evaluating LLM-based human-agent systems under configurable human participation, covering both task outcomes and process-level collaboration behavior across six domains.</small>
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/swift.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,6 +79,21 @@ _EMNLP 2025 main_
 [[arXiv]](https://arxiv.org/abs/2410.10481) [[code]](https://github.com/Xtra-Computing/Llamdex)
 
 <small>Proposed Llamdex, a novel framework that facilitates LLM customization as a service for domain-specific applications. It boosted accuracy by up to 26% while preserving privacy.</small>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/has_bench.png' alt="HAS-Bench framework and evaluation overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HAS-Bench: Evaluating LLM-Based Human-Agent Systems under Configurable Human Participation**
+
+Yaozu Wu\*, Wei-Chieh Huang\*, **Jizhou Guo**\*, Dongyuan Li, Renhe Jiang, Henry Peng Zou, Chunyu Miao, Shanghao Li, Weizhi Zhang, WeiWei Ye, Yankai Chen, Meng Zhang, Xue Liu, Philip S. Yu
+
+_arXiv preprint, 2026_
+
+[[arXiv]](https://arxiv.org/abs/2607.04329)
+
+<small>Introduces HAS-Framework and HAS-Bench for evaluating LLM-based human-agent systems under configurable human participation, covering both task outcomes and process-level collaboration behavior across six domains.</small>
 </div>
 </div>
 
