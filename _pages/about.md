@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a researcher at Xiaohongshu (RedNote) [Dots Studio](https://studio.dots.ai/) through the **REDstar Talent Program**, working on large language model foundation systems. During my undergraduate studies at SJTU Zhiyuan College (Honors Program, Top 10%), I was fortunate to collaborate with and be mentored by [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/), [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), [Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Liang Lu](https://bcmi.sjtu.edu.cn/~blu/), and [Prof. Wei-Long Zheng](https://weilongzheng.github.io/).
 
-My research has appeared at KDD, EMNLP (main), NeurIPS, and **ICLR (Oral)**. I serve as a reviewer for **ICLR 2026** and **NeurIPS 2026**. I am also a competitive programmer with multiple Gold Medals in **ICPC** and **CCPC**, mentored by [Prof. Yong Yu](https://apex.sjtu.edu.cn/members/yyu).
+My research has appeared at KDD, EMNLP (main), NeurIPS, and **ICLR (Oral)**. I serve as a reviewer for **ICLR 2026**, **NeurIPS 2026** and **ACL Rolling Review (ARR, August 2026)**. I am also a competitive programmer with multiple Gold Medals in **ICPC** and **CCPC**, mentored by [Prof. Yong Yu](https://apex.sjtu.edu.cn/members/yyu).
 
 Feel free to reach out if you'd like to chat!
 
@@ -34,7 +34,6 @@ Feel free to reach out if you'd like to chat!
 </p>
 
 # 🔥 News
-- *2026.08*: &nbsp; <a href="https://arxiv.org/abs/2608.08001">Reinhardt's Maximum-Perimeter Polygon Problem at n=16, 32, and 64</a> is available on arXiv, together with <a href="https://github.com/aster2024/reinhardt-powers-of-two-proof-candidates">code and proof certificates</a>.
 - *2026.07*: &nbsp; <a href="https://arxiv.org/abs/2607.04329">HAS-Bench</a>, our benchmark for LLM-based human-agent systems under configurable human participation, is available on arXiv.
 - *2026.04*: &nbsp; <a href="https://arxiv.org/abs/2509.24496">LLM DNA</a> is featured by <a href="https://mp.weixin.qq.com/s/p-F7qQzDRgwOQTfl1WIL8A">AI Era (新智元)</a>.
 - *2026.04*: &nbsp; <a href="https://arxiv.org/abs/2510.10994">DeepResearchGuard</a> and _LLM-HAS Survey_ are accepted to ACL 2026! 🎉
@@ -195,7 +194,7 @@ _NeurIPS 2024_
 
 # 🌍 Services
 
-Invited as reviewer: [ICLR 2026](https://iclr.cc/Conferences/2026), [NeurIPS 2026](https://neurips.cc/Conferences/2026), [EMBC 2025](https://embc.embs.org/2025/), [AI4MATH @ ICML 2025](https://sites.google.com/view/ai4mathworkshopicml2025)
+Invited as reviewer: [ICLR 2026](https://iclr.cc/Conferences/2026), [NeurIPS 2026](https://neurips.cc/Conferences/2026), [ARR 2026 August](https://aclrollingreview.org/), [EMBC 2025](https://embc.embs.org/2025/), [AI4MATH @ ICML 2025](https://sites.google.com/view/ai4mathworkshopicml2025)
 
 <style>
 .experience-box {
